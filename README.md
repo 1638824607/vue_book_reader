@@ -1,3 +1,5 @@
-# Vue实战微信读书 开发企业级移动Web书城
+# Vue移动Web书城
 
-## 开发手册
+# npm install
+
+# npm run dev
